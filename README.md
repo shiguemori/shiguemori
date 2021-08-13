@@ -30,7 +30,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
+<p align="center"> 
   <a href="https://angular.io" target="_blank"> 
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> 
   </a> 
@@ -157,7 +157,7 @@
 </p>
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiguemori&show_icons=true&locale=en&layout=compact" alt="shiguemori" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiguemori&show_icons=true&locale=en&layout=compact" alt="shiguemori" />
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiguemori&show_icons=true&locale=en" alt="shiguemori" /></p>
