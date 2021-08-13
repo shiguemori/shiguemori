@@ -156,10 +156,14 @@
   </a> 
 </p>
 
-<p>
+<p align="center"> 
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiguemori&show_icons=true&locale=en&layout=compact" alt="shiguemori" />
 </p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=shiguemori&show_icons=true&locale=en" alt="shiguemori" /></p>
+<p align="center"> 
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shiguemori&show_icons=true&locale=en" alt="shiguemori" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiguemori&" alt="shiguemori" /></p>
+<p align="center"> 
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shiguemori&" alt="shiguemori" />
+</p>
