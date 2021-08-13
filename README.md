@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Go, React**
 
-- 💬 Ask me about **PHP, MySql**
+- 💬 Ask me about **PHP, MySql, JS**
 
 - 📫 How to reach me **shiguemori@hotmail.com**
 
