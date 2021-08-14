@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Go, React**
 
-- 💬 Ask me about **PHP, MySql, JS**
+- 💬 Ask me about **GO, PHP, Java, MySql, JavaScript**
 
 - 📫 How to reach me **shiguemori@hotmail.com**
 
