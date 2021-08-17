@@ -29,10 +29,10 @@
 </p>
 <h3 align="left">See my activities on:</h3>
 <p align="left">
-  <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/8479435/vinicius-shiguemori" target="blank">
+  <a href="https://stackoverflow.com/users/8479435/vinicius-shiguemori" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8479435/vinicius-shiguemori" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/https://www.hackerrank.com/shiguemori" target="blank">
+  <a href="https://www.hackerrank.com/shiguemori" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shiguemori" height="30" width="40" />
   </a>
 </p>
