@@ -17,7 +17,7 @@
   <a href="https://wa.me/5511975676977" target="_blank">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank">
   </a>
-  <a href="https://www.linkedin.com/in/shiguemori-fullstack-dev/" target="blank">
+  <a href="https://www.linkedin.com/in/shiguemori-fullstack-dev/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
   </a> 
   <a href="https://instagram.com/vinishiguemori" target="_blank">
@@ -26,10 +26,10 @@
 </p>
 <h3 align="left">See my activities on:</h3>
 <p align="left">
-  <a href="https://stackoverflow.com/users/8479435/vinicius-shiguemori" target="blank">
+  <a href="https://stackoverflow.com/users/8479435/vinicius-shiguemori" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/8479435/vinicius-shiguemori" height="30" width="40" />
   </a>
-  <a href="https://www.hackerrank.com/shiguemori" target="blank">
+  <a href="https://www.hackerrank.com/shiguemori" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/shiguemori" height="30" width="40" />
   </a>
 </p>
