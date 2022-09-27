@@ -10,7 +10,7 @@
 
 - 📫 How to reach me **shiguemori@hotmail.com**
 
-- ⚡ Fun fact **I'm a magician and cooker**
+- ⚡ Fun fact **I'm a magician and like to cook**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
