@@ -2,7 +2,7 @@
   <img src="https://komarev.com/ghpvc/?username=shiguemori&label=Profile%20views&color=0e75b6&style=flat" alt="shiguemori" /> 
 </p>
 <h1 align="left">Hi 👋, I'm Vinicius Shiguemori</h1>
-<h3 align="left">A Software Engineer with more than 9 years of experience delivering tech solutions.</h3>
+<h3 align="left">A Software Engineer with more than 12 years of experience delivering tech solutions.</h3>
 
 - 🌱 I’m currently learning **Python, React**
 
