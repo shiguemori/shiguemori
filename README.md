@@ -1,79 +1,76 @@
-<p align="left">  
-  <img src="https://komarev.com/ghpvc/?username=shiguemori&label=Profile%20views&color=0e75b6&style=flat" alt="shiguemori" /> 
-</p>
-
-# Hi 👋, I'm Vinicius Shiguemori
-
-### **Senior Software Engineer | Distributed Systems & High-Performance Architecture**
-
-A results-driven Software Engineer with more than 12 years of experience delivering high-throughput tech solutions, optimizing cloud infrastructures, and architecting resilient microservices.
-
----
-
-### 🚀 About Me
-
-- 🛠️ **Core Expertise:** High-performance backends in **Golang**, **Python**, and **Elixir**.
-- ☁️ **Cloud & DevOps:** Deep dive into AWS ecosystems, Docker, Kubernetes, and Event-Driven architectures (Kafka/RabbitMQ).
-- 💬 **Ask me about:** System design, query optimization, API performance, and mentoring engineering teams.
-- 📫 **How to reach me:** [shiguemori@hotmail.com](mailto:shiguemori@hotmail.com)
-- ⚡ **Fun fact:** I'm a magician and I take slow-cooking/BBQ very seriously.
-
----
-
-### 🛠️ Tech Stack & Tools
-
-#### **Back-end & Messaging**
-<p align="left"> 
-  <a href="https://golang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="45" height="45"/></a>&nbsp;
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>&nbsp;
-  <a href="https://elixir-lang.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/elixir/elixir-original.svg" alt="elixir" width="45" height="45"/></a>&nbsp;
-  <a href="https://kafka.apache.org/" target="_blank"><img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="45" height="45"/></a>&nbsp;
-  <a href="https://www.rabbitmq.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="rabbitMQ" width="45" height="45"/></a>&nbsp;
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="45" height="45"/></a>&nbsp;
-  <a href="https://www.php.net" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="45" height="45"/></a>&nbsp;
-  <a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="45" height="45"/></a>
-</p>
-
-#### **Cloud, DevOps & Databases**
 <p align="left">
-  <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a>&nbsp;
-  <a href="https://kubernetes.io" target="_blank"><img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="45" height="45"/></a>&nbsp;
-  <a href="https://www.docker.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/></a>&nbsp;
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="45" height="45"/></a>&nbsp;
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="45" height="45"/></a>&nbsp;
-  <a href="https://redis.io" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="redis" width="45" height="45"/></a>&nbsp;
-  <a href="https://www.elastic.co" target="_blank"><img src="https://www.vectorlogo.zone/logos/elastic/elastic-icon.svg" alt="elasticsearch" width="45" height="45"/></a>
+  <img src="https://komarev.com/ghpvc/?username=shiguemori&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views for shiguemori" />
 </p>
 
-#### **Front-end & Frameworks**
+# Vinicius Shiguemori
+
+Senior Software Engineer | Distributed Systems | High-Performance Architecture
+
+I build backend platforms that need to stay fast, reliable, and observable under real production pressure. My work is centered on distributed systems, cloud infrastructure, event-driven architectures, and pragmatic engineering leadership.
+
+With more than 12 years of experience, I have helped teams design APIs, optimize databases, evolve microservices, operate cloud workloads, and improve delivery practices without losing sight of product outcomes.
+
+## What I Work On
+
+- High-throughput backend services in Go, Python, Elixir, Node.js, PHP, and Java.
+- Distributed systems, messaging, and asynchronous workflows with Kafka and RabbitMQ.
+- Cloud-native platforms on AWS, Docker, Kubernetes, relational databases, Redis, and Elasticsearch.
+- API performance, query optimization, observability, reliability, and incident-driven improvement.
+- Technical mentoring, architecture reviews, and engineering practices that help teams ship with confidence.
+
+## Core Stack
+
+| Area | Tools and technologies |
+| --- | --- |
+| Backend | Go, Python, Elixir, Node.js, PHP, Java |
+| Messaging | Kafka, RabbitMQ, event-driven architecture |
+| Cloud and DevOps | AWS, Docker, Kubernetes, CI/CD, Linux |
+| Data | PostgreSQL, MySQL, Redis, Elasticsearch |
+| Frontend | TypeScript, JavaScript, React, Vue |
+| Practices | System design, performance tuning, observability, mentoring |
+
+## Topics I Like To Discuss
+
+- Designing APIs and services for scale, latency, and maintainability.
+- Choosing the right database strategy for read/write patterns.
+- Reducing operational noise with better observability and incident follow-up.
+- Moving teams from ad hoc delivery to repeatable engineering practices.
+- Balancing architecture quality with product speed.
+
+## Beyond Work
+
+I am a magician, and I take slow-cooking and BBQ seriously.
+
+## GitHub Stats
+
 <p align="left">
-  <a href="https://reactjs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="45" height="45"/></a>&nbsp;
-  <a href="https://vuejs.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" alt="vuejs" width="45" height="45"/></a>&nbsp;
-  <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="45" height="45"/></a>&nbsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/></a>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=shiguemori&theme=dark&show_icons=true&locale=en" alt="GitHub stats for shiguemori" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiguemori&theme=dark&show_icons=true&locale=en&layout=compact" alt="Most used languages for shiguemori" />
 </p>
 
----
+## Connect
 
-### 📊 GitHub Stats & Ecosystem
-
-<p align="left">  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=shiguemori&theme=dark&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=shiguemori&theme=dark&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-### 🤝 Connect with me:
 <p align="left">
+  <a href="mailto:shiguemori@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-shiguemori%40hotmail.com-0e75b6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email badge" />
+  </a>
   <a href="https://www.linkedin.com/in/shiguemori-shirakawabe" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> 
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge" />
+  </a>
   <a href="https://wa.me/5511975676977" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
+    <img src="https://img.shields.io/badge/WhatsApp-Contact-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp badge" />
   </a>
   <a href="https://stackoverflow.com/users/8479435/vinicius-shiguemori" target="_blank">
-    <img src="https://img.shields.io/badge/-StackOverflow-%23F48024?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow">
+    <img src="https://img.shields.io/badge/Stack%20Overflow-Profile-F48024?style=for-the-badge&logo=stackoverflow&logoColor=white" alt="Stack Overflow badge" />
   </a>
   <a href="https://www.hackerrank.com/shiguemori" target="_blank">
-    <img src="https://img.shields.io/badge/-HackerRank-%232EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank badge" />
   </a>
 </p>
+
+## Repository Notes
+
+This repository powers the public GitHub profile for `shiguemori`. Maintenance guidance and recommended next improvements are documented in:
+
+- [Profile maintenance](docs/profile-maintenance.md)
+- [Improvement backlog](docs/improvements.md)
