@@ -23,7 +23,8 @@ The profile should quickly communicate:
 |   `-- workflows/
 |       `-- profile-quality.yml
 |-- .lychee.toml
-`-- .markdownlint-cli2.jsonc
+|-- .markdownlint-cli2.jsonc
+`-- .gitattributes
 ```
 
 ## Maintenance Checklist

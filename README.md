@@ -72,5 +72,6 @@ I am a magician, and I take slow-cooking and BBQ seriously.
 
 This repository powers the public GitHub profile for `shiguemori`. Maintenance guidance and recommended next improvements are documented in:
 
+- [Repository analysis](docs/analise.md)
 - [Profile maintenance](docs/profile-maintenance.md)
 - [Improvement backlog](docs/improvements.md)
